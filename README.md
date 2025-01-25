@@ -1,6 +1,3 @@
-Voici un README structuré pour votre projet de test de la page de connexion GitHub utilisant **Selenium** et **Behave** :  
-
----
 
 # Projet de Test : Page de Connexion GitHub BDD (Behavior-Driven Development)
 
